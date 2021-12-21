@@ -22,7 +22,10 @@ This hands-on consists of training and reasoning part hands-on labs, each of whi
 
 - **SageMaker Serverless Endpoint**: SageMaker Serverless Inference is a new inference option launched at re:Invent 2021 that is built to make it easy to deploy and scale models for Machine Learning without the burden of managing your hosting infrastructure. SageMaker Serverless Inference automatically starts compute resources and automatically scales in/out based on traffic, so you don't have to choose instance types or manage scaling policies. This makes it ideal for workloads that have idle periods between traffic spikes and can tolerate cold starts.
 
+## Lab 3: MLOps
 
+- **SageMaker Pipelines**: TBU
+  
 # References
 
 - KoELECTRA: https://github.com/monologg/KoELECTRA
