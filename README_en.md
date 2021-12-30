@@ -4,7 +4,7 @@ There are many cases of AI/ML application of Natural Language Processing(NLP) su
 
 Recently, AWS introduced the Hugging Face Deep Learning Training Container and Inference Container, which makes it easier to train and deploy Hugging Face's transformer models on Amazon SageMaker. This enables rapid training and production deployment of NLP models with just a few lines of code without having to worry about setting up infrastructure.
 
-This hands-on consists of training and reasoning part hands-on labs, each of which can be performed independently.
+This hands-on lab consists of three labs (training, reasoning, and MLOps), each of which can be performed independently. If you want to become more familiar with SageMaker, we recommend that you do all the labs, but you can do only the parts that fit your needs. Each part takes about an hour, and all hands-on labs take about three hours in total. (It can be done within an hour by just running the code.)
 
 **_Note: Korean customers need sample code for Korean language models, not English models. Therefore, all of these Hands-Ons were written in Korean first. If you have a need for an English version, please contact the author._**
 
@@ -24,7 +24,7 @@ This hands-on consists of training and reasoning part hands-on labs, each of whi
 
 ## Lab 3: MLOps
 
-- **SageMaker Pipelines**: TBU
+- **SageMaker Pipelines**: SageMaker Pipelines has been continuously updated since the launch of the re:Invent 2020 service, and the main feature updated in August 2021, Lambda Step, makes it easy to perform serverless tasks, including deploying hosted endpoint models. Additionally, caching allows you to quickly experiment with only changed parameters without having to restart every pipeline from scratch.
   
 # References
 
